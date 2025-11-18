@@ -1,21 +1,35 @@
-# EasyPaper
-A chatbot that gets the title and abstract of your paper and gives out a one-sentence summary capturing all the important information.
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>EasyPaper Chatbot</title>
-</head>
-<body>
-  <h2>EasyPaper Chatbot</h2>
+# ⚡ EasyPaper
+A fast, minimalistic AI tool that generates *1-line scientific summaries* from any research article's *Title + Abstract*.
 
-  <!-- کد Embed Dify -->
-  <script src="<iframe
+EasyPaper is designed for researchers, students, and clinicians who want a quick, sharp understanding of a paper without reading long abstracts.
+
+---
+
+## 🚀 Features
+- ✂️ *One-Line Summary:* Instant, ultra-concise output.
+- 🔍 *Input → Output Simplicity:* Only requires *Title* and *Abstract*.
+- ⚡ *Built on Dify:* Reliable, fast, and deployable anywhere.
+- 🧠 *Uses GPT-based reasoning:* Ensures accuracy & clarity.
+- 🌐 *Can be embedded in websites or shared as a web app.*
+
+---
+
+## 🔗 Live Demo
+Click below to try EasyPaper:
+
+👉 *[Open EasyPaper Chatbot](<iframe
  src="https://udify.app/chatbot/oSC6YJAjsNL9Z1db"
  style="width: 100%; height: 100%; min-height: 700px"
  frameborder="0"
  allow="microphone">
-</iframe>"></script>
+</iframe>)*
 
-</body>
-</html>
+Or embed it on any website:
+
+```html
+<iframe
+ src="https://udify.app/chatbot/oSC6YJAjsNL9Z1db"
+ style="width: 100%; height: 100%; min-height: 700px"
+ frameborder="0"
+ allow="microphone">
+</iframe>
