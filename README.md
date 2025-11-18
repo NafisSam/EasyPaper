@@ -17,7 +17,8 @@ EasyPaper is designed for researchers, students, and clinicians who want a quick
 ## 🔗 Live Demo
 Click below to try EasyPaper:
 
-👉 *[Open EasyPaper Chatbot]("https://udify.app/chatbot/oSC6YJAjsNL9Z1db")*
+👉 *[Open EasyPaper Chatbot](<
+ src="https://udify.app/chatbot/oSC6YJAjsNL9Z1db">)*
 
 Or embed it on any website:
 
